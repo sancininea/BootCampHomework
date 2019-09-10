@@ -1,2 +1,2 @@
 # Python Homework files
-## In each folder is the homework
+ In each folder are the different homework assignments for python
